@@ -1,5 +1,8 @@
 # About
 
+This is the About page. For other pages, see [the page containg my proposals](https://ds5500.github.io/public-fall25-brobst-j/plans) and [the page linking my slides](https://ds5500.github.io/public-fall25-brobst-j/slidedecks).
+
+
 ## The Project
 Hepatitis C Virus (HCV) is a "notifiable condition" in Maine, meaning that all positive lab results are required by law to be reported to the Department of Health and Human Services (DHHS); it is also classified as either 'Acute' or 'Chronic'. 
 
