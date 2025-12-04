@@ -116,8 +116,14 @@ The last two files are the views created by merge_records.py:
 
 The 'long view' lists each patient/year/test as the indicator, and is the prefered view for coding-based analysis. The 'wide view' uses each patient as an indexer, and is ideal for human anaylsis since it more clearly shows the journey of each patient. 
 
+#### Population Data
+For analysis, population estimates data was taken from [census.gov](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html) and [census.gov](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html) and [maine.gov](https://www.maine.gov/dafs/economist/census-information). Other than being combined directly (as they are the same format) and the indexes renamed to remove the state name, no data has been changed or altared in any way from what was available on those websites as of October 24th, 2025.
+
 ### Analysis and Figs
 These are static folders, and are what was run during the project analyses. They can either be used as the basis for another analysis, used for report creation, or verification if this repo were to be re-created.
+
+### Note: HIPPA Compliance
+To maintiain the saftey of sensitive information, this version of the repo has a slightly modified version of the data that does not include county information, which also impacts the EDA and figure generated for class. The private version does account for county, and an analysis is being preformed at that level.
 
 ## Contributers
 
